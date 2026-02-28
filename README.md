@@ -95,24 +95,4 @@ This file can be inspected or deleted between runs.
 
 ---
 
-## 📌 Publishing to GitHub
-
-1. Initialize a git repo if you haven't already:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   ```
-2. Create a new GitHub repository and push:
-   ```bash
-   git branch -M main
-   git remote add origin <your-repo-url>
-   git push -u origin main
-   ```
-
-Once published, the `README.md` will serve as the primary documentation for
-users of your project.
-
----
-
-Happy spreadsheet automating! 🧠📊
+Made this as a fun project to experiment the use of agentic AI.
